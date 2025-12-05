@@ -327,4 +327,4 @@ MIT License - 商用利用、改変、再配布が自由にできます。
 - ✨ 詳細なAWS最適化ガイド
 - ✨ パフォーマンスチューニングガイド
 
-[Complete Edition について詳しく見る →](https://gist.github.com/iwasaki-dev/XXXXX)
+[Complete Edition について詳しく見る →](https://gist.github.com/kai-tecweb/5ab6e544d9273aa7267e79f8ccedf780)
