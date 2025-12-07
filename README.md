@@ -319,6 +319,11 @@ MIT License - 商用利用、改変、再配布が自由にできます。
 
 ## 💎 完全版サービスのご案内
 
+<p align="center">
+  <img src="images/thumb_left.png" width="45%" alt="設定書がない場合">
+  <img src="images/thumb_right.png" width="45%" alt="設定書がある場合">
+</p>
+
 このGitHubリポジトリでは、基本的な開発標準を無料で提供しています。
 
 ### 📦 この無料版に含まれるもの
